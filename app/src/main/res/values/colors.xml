@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF1744</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#1F1F1F</color>
+    <color name="colorMist">#90AFC5</color>
+    <color name="colorStone">#336B87</color>
+    <color name="colorShade">#2A3132</color>
+    <color name="colorAutumn">#763626</color>
+    <color name="colorGreen">#00FF00</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorCustomRed">#D72428</color>
+    <color name="colorSoftBlack">#1F1F1F</color>
+    <color name="colorDarkGreen">#006400</color>
+    <color name="colorTransparentBg">#16777E8E</color>
+    <color name="colorSecondaryText">#686868</color>
+
+    <!-- 1st Gradient color -->
+    <color name="colorPurple_A400">#D500F9</color>
+    <color name="colorPurple_900">#4A148C</color>
+    <!-- ./ 1st Gradient color -->
+    <!-- 2nd Gradient color -->
+
+    <!--<color name="colorAmber_A400">#FFC400</color> -->
+    <color name="colorAmber_A400">#FFC400</color>
+
+    <color name="colorAmber_900">#FF6F00</color>
+    <!-- ./ 2nd Gradient color -->
+    <!-- 3rd Gradient color -->
+    <color name="colorGreen_A400">#0DAF7F</color>
+    <color name="colorGreen_900">#1B5E20</color>
+    <!-- ./ 3rd Gradient color -->
+    <!-- 4th Gradient color -->
+    <color name="colorRed_A400">#FF1744</color>
+    <color name="colorRed_900">#B71C1C</color>
+    <!-- ./ 4th Gradient color -->
+</resources>

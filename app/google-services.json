@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094875256638",
+    "project_id": "simple-attendance-b39b5",
+    "storage_bucket": "simple-attendance-b39b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094875256638:android:8541be3e913e7ff3a6be6f",
+        "android_client_info": {
+          "package_name": "com.ronadigitech.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094875256638-ouh7kaguqsc77ls30269ntt7mcilrl02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAtq0q0wsbecc6RBarzorLgZNNrR0hASc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094875256638-ouh7kaguqsc77ls30269ntt7mcilrl02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

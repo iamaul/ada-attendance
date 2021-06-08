@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ADA</string>
+
+    <string-array name="user_gender">
+        <item>Perempuan</item>
+        <item>Laki-laki</item>
+    </string-array>
+</resources>
